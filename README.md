@@ -1,2 +1,5 @@
 # hello-world
-initial testing of site
+
+Hello World.
+This is my first project on GitHub,
+and definitely won't be my last.
